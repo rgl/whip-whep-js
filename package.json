@@ -1,5 +1,5 @@
 {
-	"name": "whip-whep",
+	"name": "@rgl/whip-whep-test-tmp",
 	"version": "1.0.5",
 	"description": "WHIP and WHEP clients",
 	"scripts": {
